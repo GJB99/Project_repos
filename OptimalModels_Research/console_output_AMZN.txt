@@ -1,0 +1,177 @@
+################# AMZN #################
+[*********************100%***********************]  1 of 1 completed
+assumption check
+assumption check2
+ Assumptions Check
+\begin{tabular}{lrrrrrrrrr}
+\toprule
+{} &   adf &  adf p &     PP &  PP p &    DW &        JB &  JB p &    LB &  LB p \\
+\midrule
+normalGARCH     & -5.10 &   0.00 &  -5.45 &   0.0 &  2.05 &    661.18 &   0.0 &  1.13 &  0.29 \\
+normalTARCH     & -4.70 &   0.00 &  -4.50 &   0.0 &  2.05 &    108.17 &   0.0 &  1.13 &  0.29 \\
+normalGJR-GARCH & -4.99 &   0.00 &  -5.48 &   0.0 &  2.05 &    664.57 &   0.0 &  1.13 &  0.29 \\
+normalEGARCH    & -4.05 &   0.00 &  -5.13 &   0.0 &  2.04 &    145.77 &   0.0 &  1.13 &  0.29 \\
+normalHARCH     & -4.64 &   0.00 & -20.97 &   0.0 &  2.05 &  16196.87 &   0.0 &  1.13 &  0.29 \\
+normalFIGARCH   & -4.85 &   0.00 &  -4.36 &   0.0 &  2.05 &    375.47 &   0.0 &  1.13 &  0.29 \\
+normalAPARCH    & -3.58 &   0.01 &  -4.38 &   0.0 &  2.04 &     56.91 &   0.0 &  1.13 &  0.29 \\
+tGARCH          & -5.00 &   0.00 &  -5.31 &   0.0 &  2.05 &    589.78 &   0.0 &  1.13 &  0.29 \\
+tTARCH          & -4.46 &   0.00 &  -4.23 &   0.0 &  2.05 &    102.12 &   0.0 &  1.13 &  0.29 \\
+tGJR-GARCH      & -5.30 &   0.00 &  -5.26 &   0.0 &  2.05 &    743.87 &   0.0 &  1.13 &  0.29 \\
+tEGARCH         & -3.75 &   0.00 &  -4.00 &   0.0 &  2.05 &     60.13 &   0.0 &  1.13 &  0.29 \\
+tHARCH          & -4.59 &   0.00 & -21.05 &   0.0 &  2.05 &  14014.54 &   0.0 &  1.13 &  0.29 \\
+tFIGARCH        & -4.85 &   0.00 &  -4.98 &   0.0 &  2.05 &    373.93 &   0.0 &  1.13 &  0.29 \\
+tAPARCH         & -3.29 &   0.02 &  -3.91 &   0.0 &  2.05 &     37.02 &   0.0 &  1.13 &  0.29 \\
+skewtGARCH      & -5.02 &   0.00 &  -5.34 &   0.0 &  2.05 &    600.36 &   0.0 &  1.13 &  0.29 \\
+skewtTARCH      & -4.46 &   0.00 &  -4.23 &   0.0 &  2.05 &    101.96 &   0.0 &  1.13 &  0.29 \\
+skewtGJR-GARCH  & -5.30 &   0.00 &  -5.26 &   0.0 &  2.05 &    743.47 &   0.0 &  1.13 &  0.29 \\
+skewtEGARCH     & -3.77 &   0.00 &  -4.03 &   0.0 &  2.05 &     61.40 &   0.0 &  1.13 &  0.29 \\
+skewtHARCH      & -4.59 &   0.00 & -21.06 &   0.0 &  2.05 &  13936.03 &   0.0 &  1.13 &  0.29 \\
+skewtFIGARCH    & -4.87 &   0.00 &  -4.98 &   0.0 &  2.05 &    381.28 &   0.0 &  1.13 &  0.29 \\
+skewtAPARCH     & -3.31 &   0.01 &  -3.95 &   0.0 &  2.05 &     37.74 &   0.0 &  1.13 &  0.29 \\
+gedGARCH        & -4.97 &   0.00 &  -5.25 &   0.0 &  2.05 &    579.88 &   0.0 &  1.13 &  0.29 \\
+gedTARCH        & -4.51 &   0.00 &  -4.28 &   0.0 &  2.05 &    104.48 &   0.0 &  1.13 &  0.29 \\
+gedGJR-GARCH    & -5.40 &   0.00 &  -5.36 &   0.0 &  2.05 &    740.62 &   0.0 &  1.13 &  0.29 \\
+gedEGARCH       & -3.89 &   0.00 &  -4.22 &   0.0 &  2.05 &     72.65 &   0.0 &  1.13 &  0.29 \\
+gedHARCH        & -4.61 &   0.00 & -21.00 &   0.0 &  2.05 &  15004.47 &   0.0 &  1.13 &  0.29 \\
+gedFIGARCH      & -4.65 &   0.00 &  -4.67 &   0.0 &  2.05 &    293.15 &   0.0 &  1.13 &  0.29 \\
+gedAPARCH       & -3.28 &   0.02 &  -3.88 &   0.0 &  2.05 &     37.39 &   0.0 &  1.13 &  0.29 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &      C &       AIC &       BIC &     ES &  violation Ratio &  Mean Of VaR &  Scaling &   Roll &    MAE &   RMSE \\
+\midrule
+GARCH normal     &  0.291 &  7872.120 &  7894.427 &  0.767 &            0.594 &       -3.618 &    0.211 &  1.557 &  2.074 &  2.713 \\
+GARCH t          &  0.202 &  7471.581 &  7499.464 &  0.823 &            0.950 &       -3.325 &    0.914 &  1.552 &  2.059 &  2.705 \\
+GARCH skewt      &  0.206 &  7473.372 &  7506.832 &  0.781 &            1.030 &       -3.297 &    0.914 &  1.552 &  2.060 &  2.707 \\
+GARCH ged        &  0.173 &  7528.079 &  7555.962 &  0.911 &            0.594 &       -3.573 &    0.811 &  1.544 &  2.032 &  2.676 \\
+TARCH normal     &  0.249 &  7824.187 &  7852.070 &  1.080 &            0.594 &       -3.676 &    0.294 &  1.585 &  2.031 &  2.656 \\
+TARCH t          &  0.154 &  7427.144 &  7460.604 &  1.191 &            0.673 &       -3.464 &    1.000 &  1.577 &  2.009 &  2.647 \\
+TARCH skewt      &  0.155 &  7429.138 &  7468.175 &  1.183 &            0.673 &       -3.471 &    1.000 &  1.577 &  2.009 &  2.647 \\
+TARCH ged        &  0.138 &  7489.687 &  7523.146 &  1.293 &            0.475 &       -3.691 &    0.884 &  1.572 &  1.992 &  2.627 \\
+GJR-GARCH normal &  0.292 &  7868.282 &  7896.165 &  0.675 &            0.317 &       -3.677 &    0.221 &  1.567 &  2.067 &  2.706 \\
+GJR-GARCH t      &  0.189 &  7450.453 &  7483.912 &  0.633 &            0.436 &       -3.429 &    0.957 &  1.563 &  2.041 &  2.689 \\
+GJR-GARCH skewt  &  0.190 &  7452.450 &  7491.486 &  0.628 &            0.436 &       -3.433 &    0.957 &  1.563 &  2.041 &  2.689 \\
+GJR-GARCH ged    &  0.170 &  7514.889 &  7548.349 &  0.750 &            0.198 &       -3.666 &    0.838 &  1.558 &  2.020 &  2.667 \\
+EGARCH normal    &  0.253 &  7853.628 &  7875.934 &  1.280 &            0.832 &       -3.456 &    0.242 &  1.579 &  2.042 &  2.653 \\
+EGARCH t         &  0.164 &  7456.750 &  7484.633 &  1.360 &            1.069 &       -3.248 &    0.941 &  1.575 &  2.026 &  2.643 \\
+EGARCH skewt     &  0.167 &  7458.661 &  7492.120 &  1.328 &            1.109 &       -3.230 &    0.942 &  1.575 &  2.026 &  2.644 \\
+EGARCH ged       &  0.136 &  7514.708 &  7542.591 &  1.281 &            0.911 &       -3.470 &    0.835 &  1.565 &  2.001 &  2.617 \\
+HARCH normal     &  0.367 &  7999.561 &  8016.291 &  0.420 &            0.515 &       -3.208 &    0.000 &  1.627 &  2.094 &  2.677 \\
+HARCH t          &  0.377 &  7564.730 &  7587.036 &  0.396 &            0.832 &       -2.924 &    0.741 &  1.665 &  2.136 &  2.734 \\
+HARCH skewt      &  0.381 &  7566.543 &  7594.426 &  0.425 &            0.832 &       -2.897 &    0.741 &  1.665 &  2.137 &  2.736 \\
+HARCH ged        &  0.242 &  7611.304 &  7633.611 &  0.339 &            0.515 &       -3.149 &    0.658 &  1.612 &  2.053 &  2.648 \\
+FIGARCH normal   &  0.409 &  7886.064 &  7913.947 &  0.828 &            0.356 &       -3.948 &    0.191 &  1.578 &  2.143 &  2.810 \\
+FIGARCH t        &  0.282 &  7470.397 &  7503.856 &  0.775 &            0.832 &       -3.483 &    0.920 &  1.597 &  2.092 &  2.742 \\
+FIGARCH skewt    &  0.286 &  7472.235 &  7511.271 &  0.804 &            0.832 &       -3.456 &    0.920 &  1.597 &  2.093 &  2.744 \\
+FIGARCH ged      &  0.269 &  7533.364 &  7566.824 &  0.864 &            0.436 &       -3.836 &    0.805 &  1.592 &  2.074 &  2.727 \\
+APARCH normal    &  0.262 &  7844.667 &  7872.550 &  1.406 &            0.752 &       -3.539 &    0.260 &  1.592 &  2.038 &  2.654 \\
+APARCH t         &  0.184 &  7445.244 &  7478.704 &  1.441 &            0.911 &       -3.345 &    0.966 &  1.599 &  2.021 &  2.650 \\
+APARCH skewt     &  0.188 &  7447.079 &  7486.116 &  1.463 &            0.911 &       -3.321 &    0.967 &  1.599 &  2.022 &  2.651 \\
+APARCH ged       &  0.156 &  7506.411 &  7539.871 &  1.388 &            0.792 &       -3.568 &    0.854 &  1.586 &  1.999 &  2.624 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lrrrrrrr}
+\toprule
+{} &      C &       AIC &       BIC &  Scaling &   Roll &    MAE &   RMSE \\
+\midrule
+EGARCH ged    &  0.136 &  7514.708 &  7542.591 &    0.835 &  1.565 &  2.001 &  2.617 \\
+TARCH ged     &  0.138 &  7489.687 &  7523.146 &    0.884 &  1.572 &  1.992 &  2.627 \\
+TARCH t       &  0.154 &  7427.144 &  7460.604 &    1.000 &  1.577 &  2.009 &  2.647 \\
+TARCH skewt   &  0.155 &  7429.138 &  7468.175 &    1.000 &  1.577 &  2.009 &  2.647 \\
+APARCH ged    &  0.156 &  7506.411 &  7539.871 &    0.854 &  1.586 &  1.999 &  2.624 \\
+EGARCH t      &  0.164 &  7456.750 &  7484.633 &    0.941 &  1.575 &  2.026 &  2.643 \\
+EGARCH skewt  &  0.167 &  7458.661 &  7492.120 &    0.942 &  1.575 &  2.026 &  2.644 \\
+GJR-GARCH ged &  0.170 &  7514.889 &  7548.349 &    0.838 &  1.558 &  2.020 &  2.667 \\
+GARCH ged     &  0.173 &  7528.079 &  7555.962 &    0.811 &  1.544 &  2.032 &  2.676 \\
+APARCH t      &  0.184 &  7445.244 &  7478.704 &    0.966 &  1.599 &  2.021 &  2.650 \\
+\bottomrule
+\end{tabular}
+
+['EGARCH ged', 'TARCH ged', 'TARCH t']
+Model: EGARCH ged, Vol: EGARCH, Dist: ged, Params: mu          0.146823
+omega       0.090266
+alpha[1]    0.248859
+beta[1]     0.936053
+nu          1.084476
+Name: params, dtype: float64
+Model: TARCH ged, Vol: TARCH, Dist: ged, Params: mu          0.130478
+omega       0.110084
+alpha[1]    0.083298
+gamma[1]    0.118641
+beta[1]     0.836904
+nu          1.097003
+Name: params, dtype: float64
+Model: TARCH t, Vol: TARCH, Dist: t, Params: mu          0.135798
+omega       0.104771
+alpha[1]    0.084921
+gamma[1]    0.122666
+beta[1]     0.839068
+nu          4.103931
+Name: params, dtype: float64
+Iteration:      1,   Func. Count:      7,   Neg. LLF: 46964506.7666893
+Iteration:      2,   Func. Count:     17,   Neg. LLF: 86403613.94836318
+Iteration:      3,   Func. Count:     26,   Neg. LLF: 14858.020110445785
+Iteration:      4,   Func. Count:     36,   Neg. LLF: 5050.496553609435
+Iteration:      5,   Func. Count:     42,   Neg. LLF: 5042.97726207823
+Iteration:      6,   Func. Count:     49,   Neg. LLF: 10313.205803060046
+Iteration:      7,   Func. Count:     58,   Neg. LLF: 5017.204812335854
+Iteration:      8,   Func. Count:     64,   Neg. LLF: 5163.866970564714
+Iteration:      9,   Func. Count:     72,   Neg. LLF: 5015.820484185909
+Iteration:     10,   Func. Count:     78,   Neg. LLF: 5016.629232166767
+Iteration:     11,   Func. Count:     85,   Neg. LLF: 5014.740641537776
+Iteration:     12,   Func. Count:     91,   Neg. LLF: 5014.72287030687
+Iteration:     13,   Func. Count:     97,   Neg. LLF: 5014.722402940021
+Iteration:     14,   Func. Count:    103,   Neg. LLF: 5014.722392880074
+Iteration:     15,   Func. Count:    109,   Neg. LLF: 5014.722392662235
+Optimization terminated successfully    (Exit mode 0)
+            Current function value: 5014.722392662235
+            Iterations: 15
+            Function evaluations: 109
+            Gradient evaluations: 15
+Iteration:      1,   Func. Count:      8,   Neg. LLF: 14085.386148760765
+Iteration:      2,   Func. Count:     19,   Neg. LLF: 15795.290303580077
+Iteration:      3,   Func. Count:     30,   Neg. LLF: 7730.105416035642
+Iteration:      4,   Func. Count:     39,   Neg. LLF: 5573.580676799986
+Iteration:      5,   Func. Count:     48,   Neg. LLF: 5009.49803095384
+Iteration:      6,   Func. Count:     55,   Neg. LLF: 5080.781716538578
+Iteration:      7,   Func. Count:     64,   Neg. LLF: 8098.461195528452
+Iteration:      8,   Func. Count:     72,   Neg. LLF: 5158.8881391808645
+Iteration:      9,   Func. Count:     80,   Neg. LLF: 4999.422455997387
+Iteration:     10,   Func. Count:     87,   Neg. LLF: 5063.951807230846
+Iteration:     11,   Func. Count:     95,   Neg. LLF: 5164.123898342905
+Iteration:     12,   Func. Count:    104,   Neg. LLF: 4998.131287839344
+Iteration:     13,   Func. Count:    111,   Neg. LLF: 4998.049947230448
+Iteration:     14,   Func. Count:    118,   Neg. LLF: 4998.042570259742
+Iteration:     15,   Func. Count:    125,   Neg. LLF: 4998.04225973968
+Iteration:     16,   Func. Count:    132,   Neg. LLF: 4998.0422459535
+Iteration:     17,   Func. Count:    138,   Neg. LLF: 4998.042245953463
+Optimization terminated successfully    (Exit mode 0)
+            Current function value: 4998.0422459535
+            Iterations: 17
+            Function evaluations: 138
+            Gradient evaluations: 17
+Iteration:      1,   Func. Count:      8,   Neg. LLF: 13876.726433463738
+Iteration:      2,   Func. Count:     19,   Neg. LLF: 30077.591905909525
+Iteration:      3,   Func. Count:     30,   Neg. LLF: 7062.189420301807
+Iteration:      4,   Func. Count:     39,   Neg. LLF: 5670.016141898758
+Iteration:      5,   Func. Count:     47,   Neg. LLF: 4967.0014930008665
+Iteration:      6,   Func. Count:     54,   Neg. LLF: 6452.663994088363
+Iteration:      7,   Func. Count:     62,   Neg. LLF: 7105.540616782141
+Iteration:      8,   Func. Count:     70,   Neg. LLF: 4963.892903582806
+Iteration:      9,   Func. Count:     77,   Neg. LLF: 4963.440219204176
+Iteration:     10,   Func. Count:     84,   Neg. LLF: 4963.320212863107
+Iteration:     11,   Func. Count:     91,   Neg. LLF: 4963.305145409133
+Iteration:     12,   Func. Count:     98,   Neg. LLF: 4963.299175847724
+Iteration:     13,   Func. Count:    105,   Neg. LLF: 4963.298045481533
+Iteration:     14,   Func. Count:    112,   Neg. LLF: 4963.297970719534
+Iteration:     15,   Func. Count:    119,   Neg. LLF: 4963.297969628613
+Iteration:     16,   Func. Count:    125,   Neg. LLF: 4963.297969628618
+Optimization terminated successfully    (Exit mode 0)
+            Current function value: 4963.297969628613
+            Iterations: 16
+            Function evaluations: 125
+            Gradient evaluations: 16
+##################################
